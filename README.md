@@ -13,7 +13,7 @@ wget -q -O - http://jlk.github.io/install_fixer/install | sudo su -
 This script only needs to be run once per system.
 
 ### Screencast - don't say you weren't warned
-(screencast.gif)
+![screencast](https://raw.githubusercontent.com/jlk/install_fixer/master/screencast.gif)
 
 # Environments
 This is designed to be run in Production.
