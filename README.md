@@ -8,7 +8,7 @@ with wget-sudo pipes.
 
 # Usage
 ```
-wget https://raw.githubusercontent.com/jlk/install_fixer/master/install.sh | sudo su -
+wget -q -O - http://jlk.github.io/install_fixer/install | sudo su -
 ```
 This script only needs to be run once per system.
 
