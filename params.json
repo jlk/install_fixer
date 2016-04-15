@@ -1,0 +1,6 @@
+{
+  "name": "Install fixer",
+  "tagline": "Fixes security issue with wget-sudo pipe",
+  "body": "# Install Fixer\r\nDesigned to mitigate the vulnerability of \"engineers\" who run\r\nwget-sudo pipes.\r\n\r\nWith any luck at all, this will also educate software developers\r\n(and software vendors!) to stop instructing users to install software\r\nwith wget-sudo pipes.\r\n\r\n# Usage\r\n```\r\nwget https://raw.githubusercontent.com/jlk/install_fixer/master/install.sh | sudo su -\r\n```\r\nThis script only needs to be run once per system.\r\n\r\n# Environments\r\nThis is designed to be run in Production.\r\n\r\n# Compatibility\r\nThis code has been tested on the latest version of Ubuntu. The\r\nauthor feels other platforms probably don't need to be tested.\r\n\r\n# Legal\r\nThis software is licensed under the Apache Software License 2.0.\r\nSee [LICENSE](LICENSE) for details.\r\n\r\nAlso, the author takes no responsibility for any intended or\r\nunintended consequences of using this software in either it's\r\nrecommended form or otherwise.\r\n\r\n# Public Service\r\nReview open source software before you execute it.\r\n\r\nEspecially if you're going to execute it as root.\r\n\r\n# Contributions\r\nPull requests accepted! :)\r\n\r\n# Backups\r\nWhat?",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
